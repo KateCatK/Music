@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(203, 252, 255);
+    color: rgb(87, 180, 185);
+    font-size: 28pt;
+    text-align: center;
+
+}
+.music-panel{
+    margin-top: 180px;
+}
+.intrument{
+    margin-left: 13px;
+    margin-right: 13px;
+    display: inline-block;
+    position: relative;
+    height: 130px;
+}
+.image{
+    height: 130px;
+}
+p{
+	position: absolute;
+    width: 100%;
+    top: 2px;
+    font-size: 32pt;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    background-color: white;
+    opacity: 65%;
+}
